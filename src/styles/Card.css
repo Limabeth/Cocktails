@@ -1,0 +1,104 @@
+.drink-card {
+  width: 800px;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+
+  margin: 100px auto 0 auto;
+}
+
+.drink-card div:first-of-type {
+  flex-basis: 40%;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.drink-card img {
+  border: solid 1px rgb(214, 214, 214);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.drink-card div:nth-of-type(2) {
+  flex-basis: 60%;
+  margin: 0;
+
+  align-self: flex-start;
+}
+
+.drink-card table {
+  margin: 0 0 0 25px;
+
+  border-spacing: 10px;
+}
+
+.drink-card table td {
+  height: 20px;
+}
+
+.drink-card table tr td:first-of-type {
+  padding: 5px;
+
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background: inherit;
+  border: solid 1px rgba(255, 255, 255, 0.377);
+  border-radius: 2px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+
+  color: rgb(29, 29, 29);
+  font-family: "Allan", cursive;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.drink-card table tr td:nth-of-type(2) {
+  font-size: 18px;
+  font-family: "Courgette", cursive;
+}
+
+.drink-card table tr td:first-of-type:before {
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.144);
+  filter: blur(10px);
+  margin: -20px;
+}
+
+@media screen and (max-width: 800px) {
+  .drink-card {
+    width: 500px;
+    flex-direction: column;
+  }
+
+  .drink-card img {
+    width: 300px;
+  }
+
+  .drink-card div:first-of-type {
+    margin-left: 35px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .drink-card {
+    margin: 50px 0 0 0;
+  }
+
+  .drink-card table {
+    margin: 0px;
+  }
+
+  .drink-card div:first-of-type {
+    margin-left: 10px;
+  }
+}
