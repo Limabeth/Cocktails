@@ -7,6 +7,8 @@ import { auth } from "./Firebase/Firebase.js";
 
 import "./styles/Nav.css";
 
+const IMG_Bartender = require("./images/bartender.png").default;
+
 const Nav = () => {
   const history = useHistory();
 
@@ -26,7 +28,7 @@ const Nav = () => {
   return (
     <div className="navbar">
       <div className="nav-image">
-        <img src={"/images/bartender.png"} alt="bartender"></img>
+        <img src={IMG_Bartender} alt="bartender"></img>
       </div>
       <div className="nav-links">
         <Link to="/page/1">Home</Link>

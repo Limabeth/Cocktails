@@ -2,12 +2,14 @@ import React from "react";
 
 import "./styles/About.css";
 
+const IMG_Fallout = require("./images/fallout.png").default;
+
 const About = () => {
   return (
     <div className="about">
       <span>About website</span>
       <div>
-        <img src={"/images/fallout.png"} alt="Fallout Thumbs up"></img>
+        <img src={IMG_Fallout} alt="Fallout Thumbs up"></img>
         <p>
           Created by the most exquisite of the cocktail enthusiasts, this
           website provides an extensive database of cocktails from all over the

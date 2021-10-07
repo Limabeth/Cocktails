@@ -15,6 +15,8 @@ import { useGlobalContext } from "./Providers/GlobalProvider.js";
 
 import "./styles/Drinks.css";
 
+const IMG_SearchFail = require("./images/searchfail.png").default;
+
 const Drinks = () => {
   const [page, setPage] = useState(1);
   const { drinks, loading } = useGlobalContext();
@@ -29,7 +31,7 @@ const Drinks = () => {
         <span>
           Oops! It looks like we can't find your favourite drink {":("}
         </span>
-        <img src={"/images/searchfail.png"} alt="Fallout Angry"></img>
+        <img src={IMG_SearchFail} alt="Fallout Angry"></img>
       </div>
     );
   }
