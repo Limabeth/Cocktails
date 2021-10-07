@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/page/1/static/css/main.95ea0777.chunk.css",
-    "main.js": "/page/1/static/js/main.96511bc8.chunk.js",
-    "main.js.map": "/page/1/static/js/main.96511bc8.chunk.js.map",
-    "runtime-main.js": "/page/1/static/js/runtime-main.35cd7e45.js",
-    "runtime-main.js.map": "/page/1/static/js/runtime-main.35cd7e45.js.map",
-    "static/js/2.7f9756a0.chunk.js": "/page/1/static/js/2.7f9756a0.chunk.js",
-    "static/js/2.7f9756a0.chunk.js.map": "/page/1/static/js/2.7f9756a0.chunk.js.map",
-    "index.html": "/page/1/index.html",
-    "static/css/main.95ea0777.chunk.css.map": "/page/1/static/css/main.95ea0777.chunk.css.map",
-    "static/js/2.7f9756a0.chunk.js.LICENSE.txt": "/page/1/static/js/2.7f9756a0.chunk.js.LICENSE.txt",
-    "static/media/bartender.png": "/page/1/static/media/bartender.11b61790.png",
-    "static/media/error.png": "/page/1/static/media/error.a074ebb3.png",
-    "static/media/fallout.png": "/page/1/static/media/fallout.45bd3f51.png",
-    "static/media/nouser.png": "/page/1/static/media/nouser.47700b35.png",
-    "static/media/searchfail.png": "/page/1/static/media/searchfail.dcb10488.png"
+    "main.css": "/static/css/main.95ea0777.chunk.css",
+    "main.js": "/static/js/main.96511bc8.chunk.js",
+    "main.js.map": "/static/js/main.96511bc8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.baaec1ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.baaec1ba.js.map",
+    "static/js/2.3be3d396.chunk.js": "/static/js/2.3be3d396.chunk.js",
+    "static/js/2.3be3d396.chunk.js.map": "/static/js/2.3be3d396.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.95ea0777.chunk.css.map": "/static/css/main.95ea0777.chunk.css.map",
+    "static/js/2.3be3d396.chunk.js.LICENSE.txt": "/static/js/2.3be3d396.chunk.js.LICENSE.txt",
+    "static/media/bartender.png": "/static/media/bartender.11b61790.png",
+    "static/media/error.png": "/static/media/error.a074ebb3.png",
+    "static/media/fallout.png": "/static/media/fallout.45bd3f51.png",
+    "static/media/nouser.png": "/static/media/nouser.47700b35.png",
+    "static/media/searchfail.png": "/static/media/searchfail.dcb10488.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35cd7e45.js",
-    "static/js/2.7f9756a0.chunk.js",
+    "static/js/runtime-main.baaec1ba.js",
+    "static/js/2.3be3d396.chunk.js",
     "static/css/main.95ea0777.chunk.css",
     "static/js/main.96511bc8.chunk.js"
   ]
