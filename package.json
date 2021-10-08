@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "homepage": "http://limabeth.github.io/cocktails/page/1",
+  "homepage": "http://limabeth.github.io/Cocktails",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
