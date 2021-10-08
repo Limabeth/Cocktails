@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.95ea0777.chunk.css",
-    "main.js": "/static/js/main.96511bc8.chunk.js",
-    "main.js.map": "/static/js/main.96511bc8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.baaec1ba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.baaec1ba.js.map",
-    "static/js/2.3be3d396.chunk.js": "/static/js/2.3be3d396.chunk.js",
-    "static/js/2.3be3d396.chunk.js.map": "/static/js/2.3be3d396.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.95ea0777.chunk.css.map": "/static/css/main.95ea0777.chunk.css.map",
-    "static/js/2.3be3d396.chunk.js.LICENSE.txt": "/static/js/2.3be3d396.chunk.js.LICENSE.txt",
-    "static/media/bartender.png": "/static/media/bartender.11b61790.png",
-    "static/media/error.png": "/static/media/error.a074ebb3.png",
-    "static/media/fallout.png": "/static/media/fallout.45bd3f51.png",
-    "static/media/nouser.png": "/static/media/nouser.47700b35.png",
-    "static/media/searchfail.png": "/static/media/searchfail.dcb10488.png"
+    "main.css": "/Cocktails/static/css/main.95ea0777.chunk.css",
+    "main.js": "/Cocktails/static/js/main.96511bc8.chunk.js",
+    "main.js.map": "/Cocktails/static/js/main.96511bc8.chunk.js.map",
+    "runtime-main.js": "/Cocktails/static/js/runtime-main.8593f290.js",
+    "runtime-main.js.map": "/Cocktails/static/js/runtime-main.8593f290.js.map",
+    "static/js/2.51817fba.chunk.js": "/Cocktails/static/js/2.51817fba.chunk.js",
+    "static/js/2.51817fba.chunk.js.map": "/Cocktails/static/js/2.51817fba.chunk.js.map",
+    "index.html": "/Cocktails/index.html",
+    "static/css/main.95ea0777.chunk.css.map": "/Cocktails/static/css/main.95ea0777.chunk.css.map",
+    "static/js/2.51817fba.chunk.js.LICENSE.txt": "/Cocktails/static/js/2.51817fba.chunk.js.LICENSE.txt",
+    "static/media/bartender.png": "/Cocktails/static/media/bartender.11b61790.png",
+    "static/media/error.png": "/Cocktails/static/media/error.a074ebb3.png",
+    "static/media/fallout.png": "/Cocktails/static/media/fallout.45bd3f51.png",
+    "static/media/nouser.png": "/Cocktails/static/media/nouser.47700b35.png",
+    "static/media/searchfail.png": "/Cocktails/static/media/searchfail.dcb10488.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.baaec1ba.js",
-    "static/js/2.3be3d396.chunk.js",
+    "static/js/runtime-main.8593f290.js",
+    "static/js/2.51817fba.chunk.js",
     "static/css/main.95ea0777.chunk.css",
     "static/js/main.96511bc8.chunk.js"
   ]
