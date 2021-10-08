@@ -21,7 +21,7 @@ import PasswordReset from "./Login/PasswordReset.js";
 
 const AppRouter = () => {
   return (
-    <Router>
+    <Router basename="Cocktails">
       <Nav />
       <Switch>
         <Route exact path ="/">
