@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cocktails/static/css/main.95ea0777.chunk.css",
-    "main.js": "/Cocktails/static/js/main.07beaffe.chunk.js",
-    "main.js.map": "/Cocktails/static/js/main.07beaffe.chunk.js.map",
+    "main.js": "/Cocktails/static/js/main.07e9d751.chunk.js",
+    "main.js.map": "/Cocktails/static/js/main.07e9d751.chunk.js.map",
     "runtime-main.js": "/Cocktails/static/js/runtime-main.8593f290.js",
     "runtime-main.js.map": "/Cocktails/static/js/runtime-main.8593f290.js.map",
-    "static/js/2.51817fba.chunk.js": "/Cocktails/static/js/2.51817fba.chunk.js",
-    "static/js/2.51817fba.chunk.js.map": "/Cocktails/static/js/2.51817fba.chunk.js.map",
+    "static/js/2.57cf0810.chunk.js": "/Cocktails/static/js/2.57cf0810.chunk.js",
+    "static/js/2.57cf0810.chunk.js.map": "/Cocktails/static/js/2.57cf0810.chunk.js.map",
     "index.html": "/Cocktails/index.html",
     "static/css/main.95ea0777.chunk.css.map": "/Cocktails/static/css/main.95ea0777.chunk.css.map",
-    "static/js/2.51817fba.chunk.js.LICENSE.txt": "/Cocktails/static/js/2.51817fba.chunk.js.LICENSE.txt",
+    "static/js/2.57cf0810.chunk.js.LICENSE.txt": "/Cocktails/static/js/2.57cf0810.chunk.js.LICENSE.txt",
     "static/media/bartender.png": "/Cocktails/static/media/bartender.11b61790.png",
     "static/media/error.png": "/Cocktails/static/media/error.a074ebb3.png",
     "static/media/fallout.png": "/Cocktails/static/media/fallout.45bd3f51.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8593f290.js",
-    "static/js/2.51817fba.chunk.js",
+    "static/js/2.57cf0810.chunk.js",
     "static/css/main.95ea0777.chunk.css",
-    "static/js/main.07beaffe.chunk.js"
+    "static/js/main.07e9d751.chunk.js"
   ]
 }
