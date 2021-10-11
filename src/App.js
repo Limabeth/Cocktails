@@ -1,6 +1,7 @@
 import React from "react";
 import { Redirect } from "react-router";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 import { PrivateRoute } from "./PrivateRoute.js";
 
@@ -21,7 +22,7 @@ import PasswordReset from "./Login/PasswordReset.js";
 
 const AppRouter = () => {
   return (
-    <Router basename="Cocktails">
+    <HashRouter basename="Cocktails">
       <Nav />
       <Switch>
         <Route exact path ="/">
@@ -46,7 +47,7 @@ const AppRouter = () => {
           <Error />
         </Route>
       </Switch>
-    </Router>
+    </HashRouter>
   );
 };
 
